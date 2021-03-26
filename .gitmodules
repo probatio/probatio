@@ -1,0 +1,24 @@
+[submodule "probatio-3dprinting"]
+	path = probatio-3dprinting
+	url = https://github.com/probatio/probatio-3dprinting
+[submodule "probatio-firmware"]
+	path = probatio-firmware
+	url = https://github.com/probatio/probatio-firmware
+[submodule "probatio-pcbs/common/probatio-pcb-block-shield"]
+	path = probatio-pcbs/common/probatio-pcb-block-shield
+	url = https://github.com/probatio/probatio-pcb-block-shield
+[submodule "probatio-pcbs/common/probatio-pcb-base"]
+	path = probatio-pcbs/common/probatio-pcb-base
+	url = https://github.com/probatio/probatio-pcb-base
+[submodule "probatio-pcbs/common/probatio-pcb-block"]
+	path = probatio-pcbs/common/probatio-pcb-block
+	url = https://github.com/probatio/probatio-pcb-block
+[submodule "probatio-pcbs/common/probatio-pcb-pogo"]
+	path = probatio-pcbs/common/probatio-pcb-pogo
+	url = https://github.com/probatio/probatio-pcb-pogo
+[submodule "probatio-pcbs/sensor/probatio-pcb-block-rotary"]
+	path = probatio-pcbs/sensor/probatio-pcb-block-rotary
+	url = https://github.com/probatio/probatio-pcb-block-rotary
+[submodule "probatio-pcbs/sensor/probatio-pcb-block-4pads"]
+	path = probatio-pcbs/sensor/probatio-pcb-block-4pads
+	url = https://github.com/probatio/probatio-pcb-block-4pads
