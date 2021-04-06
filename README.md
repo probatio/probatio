@@ -8,3 +8,9 @@ To clone this repository with all its submodules:
 ```
 git clone --recurse-submodules git@github.com:probatio/probatio.git
 ```
+
+To update the submodules:
+
+```
+git submodule update --recursive --remote
+```
